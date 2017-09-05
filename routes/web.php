@@ -10,6 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+//changes
 \Illuminate\Support\Facades\Auth::logOut(1);
 Route::get('/', function () {
     //return App\User::all();
